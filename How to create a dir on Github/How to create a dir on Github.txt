@@ -1,0 +1,27 @@
+1. Criar primeiro o repositório no Github
+
+2. Subtítulos úteis com o Markdown #etc...
+
+3. Copie o Code / Git Bash here direto da pasta 
+
+4. Git Clone Https...
+
+5. Checar a pasta lá no Pc 
+
+6. Git Bash dentro da nova pasta depois / git status pra checar se está tudo ok
+
+7. Posso criar um arquivo de texto dentro da pasta que criei.
+
+8. Dar git status pra ver se o arquivo está lá. 
+
+9. Git add .   (P/ add a nova pasta no repositório)
+
+10. Git status 
+
+11. O arquivo vai ficar verdinho (Tudo ok) 
+
+12. git commit -m (Fazer comentário "    ")
+
+13. git status
+
+14. git push origin main (enviando todos os commits locais p/ nuvem do github)
